@@ -1,0 +1,31 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# COMSOL temporary / lock files
+~model*.mph
+*.mph.lock
+*.recovery
+
+# Large or generated outputs
+*.mp4
+*.mov
+*.avi
+results/generated/
+results/tmp/
+
+# Optional: keep large COMSOL models out of git unless using Git LFS
+*.mph
+
+# Excel duplicate noise
+* (1).xlsx
+* (2).xlsx
+* copy.xlsx

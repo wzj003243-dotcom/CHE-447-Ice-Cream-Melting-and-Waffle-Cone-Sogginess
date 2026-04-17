@@ -18,20 +18,6 @@ Physics-based and data-driven study of ice cream melting and cone sogginess.
 - `results/`
   - exported plots, tables, and final figures
 
-## What should go in this repo
-
-Recommended:
-- final Excel template
-- final cleaned dataset CSV
-- notebooks
-- SOP / notes
-- final report source files
-
-Avoid committing:
-- COMSOL temporary lock files such as `~model*.mph`
-- multiple duplicate `.mph` case files
-- very large videos
-- random duplicate Excel files
 
 ## Suggested workflow
 

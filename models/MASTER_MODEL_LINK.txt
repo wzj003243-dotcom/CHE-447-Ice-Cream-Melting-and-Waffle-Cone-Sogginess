@@ -1,5 +1,2 @@
 Paste the shared link to the approved COMSOL master model here.
-
-Example:
-CHE447_master_model.mph
-https://your-shared-link-here
+https://drive.google.com/file/d/1IJ6RDk2DCpe7sjLn7-pxAbgdMEOI36RA/view?usp=drive_link

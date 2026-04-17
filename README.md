@@ -19,14 +19,6 @@ Physics-based and data-driven study of ice cream melting and cone sogginess.
   - exported plots, tables, and final figures
 
 
-## Suggested workflow
-
-1. Keep one approved COMSOL master model.
-2. Run each case and enter results into the main Excel template.
-3. Export a cleaned CSV for machine learning.
-4. Run the sklearn notebook.
-5. Save final plots in `results/`.
-
 ## Current modeling outputs
 
 Main targets:

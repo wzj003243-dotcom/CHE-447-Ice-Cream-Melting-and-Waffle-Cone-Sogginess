@@ -17,8 +17,6 @@ Physics-based and data-driven study of ice cream melting and cone sogginess.
   - COMSOL model link or one approved master model only
 - `results/`
   - exported plots, tables, and final figures
-- `python/`
-  - sklearn code, power law fit code
 
 ## Current modeling outputs
 
